@@ -52,7 +52,7 @@ class _QrScannerScreenState extends State<QrScannerScreen> {
               child: Container(
                 child: Text(
                   textAlign: TextAlign.center,
-                  "Scan the QR Code BITCH",
+                  "Scan the QR Code",
                   style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,

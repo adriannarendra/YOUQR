@@ -96299,7 +96299,7 @@ A.a1_.prototype={
 aV(){this.bd()
 $.ad.p2$.push(new A.ayo(this))},
 R(a){var s=null
-return A.qZ(A.yc(s,B.l,s,s,s,A.bG("Scan QR Code",s,s,s,s,s,s,s)),s,A.f9(B.bl,A.a([new A.Bg(this.d,new A.aym(this),s),A.ig(A.fw(s,s,s,new A.TM(s),new A.q(250,250)),s,s),A.ku(50,A.d8(s,A.bG("Scan the QR Code BITCH",s,s,s,s,A.hg(s,s,B.l,s,s,s,s,s,s,s,s,20,s,s,B.by,s,s,!0,s,s,s,s,s,s,s,s),B.hl,s),B.y,s,s,s,s,s,s,s,s,s,s),s,s,0,0,s,s)],t.p),B.M,B.aZ,s),s,s)},
+return A.qZ(A.yc(s,B.l,s,s,s,A.bG("Scan QR Code",s,s,s,s,s,s,s)),s,A.f9(B.bl,A.a([new A.Bg(this.d,new A.aym(this),s),A.ig(A.fw(s,s,s,new A.TM(s),new A.q(250,250)),s,s),A.ku(50,A.d8(s,A.bG("Scan the QR Code",s,s,s,s,A.hg(s,s,B.l,s,s,s,s,s,s,s,s,20,s,s,B.by,s,s,!0,s,s,s,s,s,s,s,s),B.hl,s),B.y,s,s,s,s,s,s,s,s,s,s),s,s,0,0,s,s)],t.p),B.M,B.aZ,s),s,s)},
 aa2(a){var s,r,q,p=this,o=a.b,n=a.a
 for(s=n.length,r=0;r<s;++r){q=n[r].z
 q.toString
