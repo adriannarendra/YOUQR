@@ -7,7 +7,7 @@ import 'package:qr_app/ui/splash_screen.dart';
 
 void main() {
   runApp(DevicePreview( // Wrap your app with DevicePreview
-    enabled: false, // Set to false for production
+    enabled: true, // Set to false for production
     builder: (context) => const MainApp(), // Your app goes here
   ));
 }
